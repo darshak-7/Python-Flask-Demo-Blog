@@ -1,0 +1,23 @@
+{
+	"params":
+	{
+		"local_server":"True",
+		"local_uri":"mysql://root:@localhost/codedark",
+		"prod_uri":"mysql://root:@localhost/codedark",
+		"fb_url":"https://facebook/codedark",
+		"tw_url":"https://twitter/codedark",
+		"gt_url":"https://github/codedark",
+		"title":"Code Dark",
+		"sub_title":"Code Dark - Copy",
+		"gmail_user":"",
+		"gmail_pass":"",
+		"about_text":"I am more than happy to annouce its my first blog flask template page",
+		"start":0,
+		"end":2,
+		"num_of_post":2,
+		"login_img":"img/login.svg",
+		"admin_user":"darshak",
+		"admin_pass":"codedark",
+		"upload_location":"P:\\Python\\Flask\\static\\uploads"
+	}
+}
